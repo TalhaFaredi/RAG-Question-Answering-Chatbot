@@ -50,7 +50,3 @@ This project implements a question-answering system using Langchain’s retrieva
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-This `README.md` provides a clear overview of your project’s functionality and setup, focusing on key components and usage instructions without including the actual code.
